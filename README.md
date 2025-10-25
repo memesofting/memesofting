@@ -1,4 +1,4 @@
-<h1>Hi, I'm Opeoluwa! <br/> <a href="https://www.linkedin.com/in/adekunle-opeoluwa-55aa12103/">3d Artist, Frontend Developer Game Developer</a></h1>
+<h1>Hi, I'm Opeoluwa! <br/> <a href="https://my-portfolio-web-mu-six.vercel.app/">3d Artist, Frontend Developer, Game Developer</a></h1>
 
 <h2>👨‍💻 Frontend Development Projects:</h2>
 
