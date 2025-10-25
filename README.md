@@ -1,7 +1,36 @@
-## Hi there 👋
+<h1>Hi, I'm Opeoluwa! <br/> <a href="https://www.linkedin.com/in/adekunle-opeoluwa-55aa12103/">3d Artist, Frontend Developer Game Developer</a></h1>
+
+<h2>👨‍💻 Frontend Development Projects:</h2>
+
+- <b>Movie search website (Moviewhiz)</b>
+  - [Moviewhiz](https://movie-whiz.vercel.app/)
+
+<h2>👨‍💻 Game Development Projects:</h2>
+
+- <b>Super city driver</b>
+  - [Driving simulator](https://github.com/Ademicope/Super-City-Driver-Prototype)
+  - [APK](https://ademicope.itch.io/super-city-driver)
+- <b>Helix jump</b>
+  - [Helix jump clone](https://github.com/Ademicope/Helix-Jump)
+- <b>Running Penguin</b>
+  - [Subway Surfer clone](https://github.com/Ademicope/Pingu)
+
+<h2>3d Projects</h2>
+
+- [Blending](https://www.behance.net/gallery/188181259/Blending)
+- [Archviz](https://www.behance.net/gallery/186983979/3d-visualisation)
+
+<h2> 🤳 Connect with me:</h2>
+**Email:** [michaeladekunle00@gmail.com](mailto:michaeladekunle00@gmail.com)
+
+<!-- <h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Ademicope | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/adekunle-opeoluwa-55aa12103/ -->
 
 <!--
-**memesofting/memesofting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ademicope/Ademicope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
